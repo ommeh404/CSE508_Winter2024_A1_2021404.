@@ -6,6 +6,8 @@ leverages Google Colab for its computational resources, with Google Drive servin
 as the storage medium. Natural Language Toolkit (NLTK) is utilized for
 text processing, and custom scripts are developed for constructing and querying
 both inverted and positional indexes.
+
+
 1 Text Processing with NLTK
 1.1 Approach
 Utilizing NLTK within Google Colab for preprocessing text files stored on
@@ -36,6 +38,8 @@ looks great replaced stock neck plate squier standard telecaster
 Processed texts demonstrated a clear reduction in non-essential words and symbols,
 showcasing the effectiveness of the methodology in preparing data for
 analysis.
+
+
 2 Inverted Index for Query Processing
 2.1 Approach
 Building an inverted index from the processed files to support efficient query
@@ -57,6 +61,8 @@ Names of the documents retrieved for query 2: None
 The system successfully executed complex queries, demonstrating the inverted
 index’s utility in information retrieval across a document corpus.
 2
+
+
 3 Positional Index for Phrase Query Processing
 3.1 Approach
 The creation of a positional index to enable precise phrase query processing,
